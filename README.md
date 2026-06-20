@@ -192,7 +192,5 @@ npm run dev
 ---
 
 ## 👨‍💻 Author
-
-Developed as part of internship project.
 MANASA K B
 ---
